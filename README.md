@@ -1,6 +1,6 @@
 # sneha-builds / Sneha Raj
 
-**Computer Science Graduate | Full-Stack Builder** 
+**Computer Science Graduate | Full-Stack Builder**  
 
 I'm a developer based in Pune, focused on building functional web applications, full stack, exploring data science and also learning new stack every other day.
 
