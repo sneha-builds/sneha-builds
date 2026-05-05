@@ -41,4 +41,4 @@ I'm a developer based in Pune, focused on building functional web applications, 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/sneha-raj10)
 
 ### Github Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sneha-builds)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sneha-builds&theme=tokyonight-duo)](https://git.io/streak-stats)
