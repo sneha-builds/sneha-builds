@@ -3,7 +3,7 @@
 **Computer Science Graduate | Full-Stack Builder | Always learning**   
 
 I'm a developer based in Pune, focused on building functional web applications, full stack, exploring data science and also learning new stack every other day.
- 
+  
 ### Tech Stack
 
 **Frontend** 
