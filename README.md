@@ -5,7 +5,7 @@
 I'm a developer based in Pune, focused on building functional web applications, full stack, exploring data science and also learning new stack every other day.
   
 ### Tech Stack
-
+ 
 **Frontend** 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
