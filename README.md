@@ -36,7 +36,7 @@ I'm a developer based in Pune, focused on building functional web applications, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### ⚡ Quick Bio
+### Quick Bio
 - Recently completed simulations at **JPMorgan Chase** & **Deloitte** & **McKinsey Forward Program 2025**.
 - Active developer with **30+ repositories** in the works.
 - Focused on performance, UI/UX and clean data pipelines.
