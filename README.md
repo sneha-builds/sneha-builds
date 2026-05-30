@@ -41,7 +41,6 @@ I'm a developer based in Pune, focused on building functional web applications, 
 - Active developer with **35+ repositories** in the works.
 - Focused on performance, UI/UX and clean data pipelines.
 - A bookworm who loves diving deep into the world of beautiful words written by great minds.
-- Currently reading "The Untethered Soul" by Michael A. Singer.
 
  
 **Get in touch:** [snehaa.new@gmail.com](mailto:snehaa.new@gmail.com)  
