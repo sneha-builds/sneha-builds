@@ -35,7 +35,7 @@ I'm a developer based in Pune, focused on building functional web applications, 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+ 
 ### Quick Bio
 - Recently completed simulations at **JPMorgan Chase** & **Deloitte** & **McKinsey Forward Program 2025**.         
 - Active developer with **35+ repositories** in the works.
