@@ -38,7 +38,7 @@ I'm a developer based in Pune, focused on building functional web applications, 
  
 ### Quick Bio
 - Recently completed simulations at **JPMorgan Chase** & **Deloitte** & **McKinsey Forward Program 2025**.         
-- Active developer with **35+ repositories** in the works.           
+- Active developer with **20+ repositories** in the works.           
 - Focused on performance, UI/UX and clean data pipelines.                
 - A bookworm who loves diving deep into the world of beautiful words written by great minds.                                        
 
