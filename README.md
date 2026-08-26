@@ -38,7 +38,7 @@ I'm a developer based in Pune, focused on building functional web applications, 
 
  
 **Get in touch:** [snehaa.new@gmail.com](mailto:snehaa.new@gmail.com)  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/sneha-raj10)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/sneha-raj10)   
 
 
 ### Github Streaks
