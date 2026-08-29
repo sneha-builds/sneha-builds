@@ -1,4 +1,4 @@
-# sneha-builds / Sneha    
+# sneha-builds / Sneha        
      
 **Computer Science Graduate | Frontend Dev | Full-Stack Builder | AI | Always learning | Avid reader**                          
  
