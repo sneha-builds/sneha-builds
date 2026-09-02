@@ -4,7 +4,7 @@
  
 I'm a developer based in Pune, focused on building functional web applications, full stack and also learning new stack every other day.       
                              
-                                             
+                                               
 ### Tech Stack                                                                 
                                          
 **Frontend**                                
